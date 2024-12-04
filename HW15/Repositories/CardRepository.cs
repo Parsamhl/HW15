@@ -22,6 +22,20 @@ namespace HW15.Repositories
         public bool CardIsActive(string cardNumber)
         => _context.cards.Any(c => c.CardNumber == cardNumber && c.IsActive == true);
 
+        public void ChangePassword(string cardNumber, string password , string newPassword)
+        {
+            var card = _context.cards.FirstOrDefault(c => c.CardNumber == cardNumber && c.Password == password);
+            if(card is null)
+            {
+                throw new Exception("invalid card");
+            }
+            else
+            {
+                newPassword = card.Password;
+                _context.SaveChanges();
+            }
+        }
+
         public void ClearWrongPasswordTry(string cardNumber)
         {
             var card = _context.cards.FirstOrDefault(c => c.CardNumber == cardNumber);

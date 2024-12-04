@@ -19,12 +19,13 @@ namespace HW15.Configuration
             builder.HasOne(a => a.SourceCard)
                 .WithMany(a => a.SentTransaction)
                 .HasForeignKey(a => a.SourceCardNumberId)
-                .OnDelete(DeleteBehavior.Restrict);
+             .OnDelete(DeleteBehavior.Restrict);
 
             builder.HasOne(a => a.DestinationCard)
                 .WithMany(a => a.RecivedTransaction)
-                .HasForeignKey(a=>a.DestinationCardNumberID)
-                .OnDelete(DeleteBehavior.Restrict);
+                .HasForeignKey(a => a.DestinationCardNumberID)
+               .OnDelete(DeleteBehavior.Restrict);
+
 
         }
     }

@@ -34,5 +34,11 @@ namespace HW15.Repositories
             return amountOfTransactions;
 
         }
+
+        public List<Transaction> GetAll(string cardNumber)
+        {
+            var list = _context.Transactions.Where(c => c.SourceCard.CardNumber == cardNumber || c.DestinationCard.CardNumber == cardNumber).ToList();    
+                return list;
+        }
     }
 }

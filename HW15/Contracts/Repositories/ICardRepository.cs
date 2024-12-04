@@ -18,6 +18,7 @@ namespace HW15.Contracts.Repositories
         bool CardIsActive(string cardNumber);
         Card GetCardBy(string cardNumber);
         void ClearWrongPasswordTry(string cardNumber);
+        void ChangePassword(string cardNumber, string password , string newPassword);
         
     }
 }

@@ -10,7 +10,8 @@ namespace HW15.Contracts.Services
     public interface ICardService
     {
         Result PasswordIsValid(string cardNumber, string password);
-        Result GetCardBalance(string cardNumber);
+        string GetCardBalance(string cardNumber);
+        void ChangePassword(string cardNumbert, string password , string newPassword);
 
 
     }

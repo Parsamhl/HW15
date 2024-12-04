@@ -3,60 +3,88 @@
   "WorkspaceRootPath": "C:\\Users\\Lion\\source\\repos\\HW15\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|c:\\users\\lion\\source\\repos\\hw15\\hw15\\contracts\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|solutionrelative:hw15\\contracts\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|c:\\users\\lion\\source\\repos\\hw15\\hw15\\configuration\\cardconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|solutionrelative:hw15\\configuration\\cardconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|c:\\users\\lion\\source\\repos\\hw15\\hw15\\contracts\\repositories\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|solutionrelative:hw15\\contracts\\repositories\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|c:\\users\\lion\\source\\repos\\hw15\\hw15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|solutionrelative:hw15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|c:\\users\\lion\\source\\repos\\hw15\\hw15\\contracts\\services\\icardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|solutionrelative:hw15\\contracts\\services\\icardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|c:\\users\\lion\\source\\repos\\hw15\\hw15\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|solutionrelative:hw15\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|c:\\users\\lion\\source\\repos\\hw15\\hw15\\entities\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|solutionrelative:hw15\\entities\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|c:\\users\\lion\\source\\repos\\hw15\\hw15\\configuration\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|solutionrelative:hw15\\configuration\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|c:\\users\\lion\\source\\repos\\hw15\\hw15\\configuration\\transactionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|solutionrelative:hw15\\configuration\\transactionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|c:\\users\\lion\\source\\repos\\hw15\\hw15\\repositories\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|solutionrelative:hw15\\repositories\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|c:\\users\\lion\\source\\repos\\hw15\\hw15\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|solutionrelative:hw15\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|c:\\users\\lion\\source\\repos\\hw15\\hw15\\services\\cardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|solutionrelative:hw15\\services\\cardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|c:\\users\\lion\\source\\repos\\hw15\\hw15\\repositories\\cardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|solutionrelative:hw15\\repositories\\cardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|c:\\users\\lion\\source\\repos\\hw15\\hw15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|solutionrelative:hw15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|c:\\users\\lion\\source\\repos\\hw15\\hw15\\entities\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|solutionrelative:hw15\\entities\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|c:\\users\\lion\\source\\repos\\hw15\\hw15\\configuration\\cardconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|solutionrelative:hw15\\configuration\\cardconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|c:\\users\\lion\\source\\repos\\hw15\\hw15\\contracts\\services\\icardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|solutionrelative:hw15\\contracts\\services\\icardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|c:\\users\\lion\\source\\repos\\hw15\\hw15\\contracts\\repositories\\icardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|solutionrelative:hw15\\contracts\\repositories\\icardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|c:\\users\\lion\\source\\repos\\hw15\\hw15\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|solutionrelative:hw15\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|c:\\users\\lion\\source\\repos\\hw15\\hw15\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|solutionrelative:hw15\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|c:\\users\\lion\\source\\repos\\hw15\\hw15\\configuration\\transactionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|solutionrelative:hw15\\configuration\\transactionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|c:\\users\\lion\\source\\repos\\hw15\\hw15\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|solutionrelative:hw15\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|c:\\users\\lion\\source\\repos\\hw15\\hw15\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|solutionrelative:hw15\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|c:\\users\\lion\\source\\repos\\hw15\\hw15\\contracts\\services\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|solutionrelative:hw15\\contracts\\services\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|c:\\users\\lion\\source\\repos\\hw15\\hw15\\repositories\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|solutionrelative:hw15\\repositories\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|c:\\users\\lion\\source\\repos\\hw15\\hw15\\configuration\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|solutionrelative:hw15\\configuration\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|c:\\users\\lion\\source\\repos\\hw15\\hw15\\contracts\\repositories\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|solutionrelative:hw15\\contracts\\repositories\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|c:\\users\\lion\\source\\repos\\hw15\\hw15\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|solutionrelative:hw15\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|c:\\users\\lion\\source\\repos\\hw15\\hw15\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|solutionrelative:hw15\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|c:\\users\\lion\\source\\repos\\hw15\\hw15\\contracts\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|solutionrelative:hw15\\contracts\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|c:\\users\\lion\\source\\repos\\hw15\\hw15\\contracts\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|solutionrelative:hw15\\contracts\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|c:\\users\\lion\\source\\repos\\hw15\\hw15\\result\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|solutionrelative:hw15\\result\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|c:\\users\\lion\\source\\repos\\hw15\\hw15\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -67,16 +95,12 @@
       "RelativeMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|solutionrelative:hw15\\migrations\\20241201125235_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|c:\\users\\lion\\source\\repos\\hw15\\hw15\\contracts\\services\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|solutionrelative:hw15\\contracts\\services\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|c:\\users\\lion\\source\\repos\\hw15\\hw15\\migrations\\20241202053544_fee nullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|solutionrelative:hw15\\migrations\\20241202053544_fee nullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|c:\\users\\lion\\source\\repos\\hw15\\hw15\\contracts\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|solutionrelative:hw15\\contracts\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|c:\\users\\lion\\source\\repos\\hw15\\hw15\\result\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|solutionrelative:hw15\\result\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|c:\\users\\lion\\source\\repos\\hw15\\hw15\\migrations\\20241202050027_cahnge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0C7B9D-2C51-4D62-B12E-3C3818C41328}|HW15\\HW15.csproj|solutionrelative:hw15\\migrations\\20241202050027_cahnge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -86,17 +110,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Card.cs",
               "DocumentMoniker": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Entities\\Card.cs",
               "RelativeDocumentMoniker": "HW15\\Entities\\Card.cs",
               "ToolTip": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Entities\\Card.cs",
               "RelativeToolTip": "HW15\\Entities\\Card.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-01T07:33:08.646Z",
               "IsPinned": true,
@@ -104,85 +128,163 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Contracts\\Repositories\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "HW15\\Contracts\\Repositories\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Contracts\\Repositories\\IUserRepository.cs",
-              "RelativeToolTip": "HW15\\Contracts\\Repositories\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T07:47:10.645Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CardConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Configuration\\CardConfiguration.cs",
-              "RelativeDocumentMoniker": "HW15\\Configuration\\CardConfiguration.cs",
-              "ToolTip": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Configuration\\CardConfiguration.cs",
-              "RelativeToolTip": "HW15\\Configuration\\CardConfiguration.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBIAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T07:40:24.292Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ITransactionRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Contracts\\Repositories\\ITransactionRepository.cs",
-              "RelativeDocumentMoniker": "HW15\\Contracts\\Repositories\\ITransactionRepository.cs",
-              "ToolTip": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Contracts\\Repositories\\ITransactionRepository.cs",
-              "RelativeToolTip": "HW15\\Contracts\\Repositories\\ITransactionRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T07:47:42.069Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ICardService.cs",
               "DocumentMoniker": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Contracts\\Services\\ICardService.cs",
               "RelativeDocumentMoniker": "HW15\\Contracts\\Services\\ICardService.cs",
               "ToolTip": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Contracts\\Services\\ICardService.cs",
               "RelativeToolTip": "HW15\\Contracts\\Services\\ICardService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-01T07:50:38.357Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "CardService.cs",
+              "DocumentMoniker": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Services\\CardService.cs",
+              "RelativeDocumentMoniker": "HW15\\Services\\CardService.cs",
+              "ToolTip": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Services\\CardService.cs",
+              "RelativeToolTip": "HW15\\Services\\CardService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T18:40:33.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TransactionService.cs",
+              "DocumentMoniker": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Services\\TransactionService.cs",
+              "RelativeDocumentMoniker": "HW15\\Services\\TransactionService.cs",
+              "ToolTip": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Services\\TransactionService.cs",
+              "RelativeToolTip": "HW15\\Services\\TransactionService.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T19:01:07.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CardRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Repositories\\CardRepository.cs",
+              "RelativeDocumentMoniker": "HW15\\Repositories\\CardRepository.cs",
+              "ToolTip": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Repositories\\CardRepository.cs",
+              "RelativeToolTip": "HW15\\Repositories\\CardRepository.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T13:48:27.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Program.cs",
               "RelativeDocumentMoniker": "HW15\\Program.cs",
               "ToolTip": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Program.cs",
               "RelativeToolTip": "HW15\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAAlwEYAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-01T13:13:58.667Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "HW15\\Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "HW15\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAApwBwAAAAkAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "CardConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Configuration\\CardConfiguration.cs",
+              "RelativeDocumentMoniker": "HW15\\Configuration\\CardConfiguration.cs",
+              "ToolTip": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Configuration\\CardConfiguration.cs",
+              "RelativeToolTip": "HW15\\Configuration\\CardConfiguration.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBgAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T14:26:22.642Z",
+              "WhenOpened": "2024-12-01T07:40:24.292Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
+              "Title": "ICardRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Contracts\\Repositories\\ICardRepository.cs",
+              "RelativeDocumentMoniker": "HW15\\Contracts\\Repositories\\ICardRepository.cs",
+              "ToolTip": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Contracts\\Repositories\\ICardRepository.cs",
+              "RelativeToolTip": "HW15\\Contracts\\Repositories\\ICardRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABQAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T07:48:07.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TransactionConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Configuration\\TransactionConfiguration.cs",
+              "RelativeDocumentMoniker": "HW15\\Configuration\\TransactionConfiguration.cs",
+              "ToolTip": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Configuration\\TransactionConfiguration.cs",
+              "RelativeToolTip": "HW15\\Configuration\\TransactionConfiguration.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T13:47:11.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Entities\\Transaction.cs",
+              "RelativeDocumentMoniker": "HW15\\Entities\\Transaction.cs",
+              "ToolTip": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Entities\\Transaction.cs",
+              "RelativeToolTip": "HW15\\Entities\\Transaction.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T07:34:44.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "HW15\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "HW15\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T08:40:44.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "HW15\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Entities\\User.cs",
+              "RelativeToolTip": "HW15\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T08:38:56.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ITransactionService.cs",
+              "DocumentMoniker": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Contracts\\Services\\ITransactionService.cs",
+              "RelativeDocumentMoniker": "HW15\\Contracts\\Services\\ITransactionService.cs",
+              "ToolTip": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Contracts\\Services\\ITransactionService.cs",
+              "RelativeToolTip": "HW15\\Contracts\\Services\\ITransactionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T07:51:04.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "UserConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Configuration\\UserConfiguration.cs",
               "RelativeDocumentMoniker": "HW15\\Configuration\\UserConfiguration.cs",
@@ -195,124 +297,81 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "TransactionConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Configuration\\TransactionConfiguration.cs",
-              "RelativeDocumentMoniker": "HW15\\Configuration\\TransactionConfiguration.cs",
-              "ToolTip": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Configuration\\TransactionConfiguration.cs",
-              "RelativeToolTip": "HW15\\Configuration\\TransactionConfiguration.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAABQAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T13:47:11.026Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "TransactionRepository.cs",
               "DocumentMoniker": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Repositories\\TransactionRepository.cs",
               "RelativeDocumentMoniker": "HW15\\Repositories\\TransactionRepository.cs",
               "ToolTip": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Repositories\\TransactionRepository.cs",
               "RelativeToolTip": "HW15\\Repositories\\TransactionRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-01T14:15:10.056Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Transaction.cs",
-              "DocumentMoniker": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Entities\\Transaction.cs",
-              "RelativeDocumentMoniker": "HW15\\Entities\\Transaction.cs",
-              "ToolTip": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Entities\\Transaction.cs",
-              "RelativeToolTip": "HW15\\Entities\\Transaction.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T07:34:44.11Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CardRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Repositories\\CardRepository.cs",
-              "RelativeDocumentMoniker": "HW15\\Repositories\\CardRepository.cs",
-              "ToolTip": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Repositories\\CardRepository.cs",
-              "RelativeToolTip": "HW15\\Repositories\\CardRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T13:48:27.798Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ICardRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Contracts\\Repositories\\ICardRepository.cs",
-              "RelativeDocumentMoniker": "HW15\\Contracts\\Repositories\\ICardRepository.cs",
-              "ToolTip": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Contracts\\Repositories\\ICardRepository.cs",
-              "RelativeToolTip": "HW15\\Contracts\\Repositories\\ICardRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T07:48:07.187Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "HW15\\Entities\\User.cs",
-              "ToolTip": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Entities\\User.cs",
-              "RelativeToolTip": "HW15\\Entities\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T07:32:24.036Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "HW15\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "HW15\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T07:25:58.866Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "20241201125235_init.cs",
-              "DocumentMoniker": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Migrations\\20241201125235_init.cs",
-              "RelativeDocumentMoniker": "HW15\\Migrations\\20241201125235_init.cs",
-              "ToolTip": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Migrations\\20241201125235_init.cs",
-              "RelativeToolTip": "HW15\\Migrations\\20241201125235_init.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "ITransactionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Contracts\\Repositories\\ITransactionRepository.cs",
+              "RelativeDocumentMoniker": "HW15\\Contracts\\Repositories\\ITransactionRepository.cs",
+              "ToolTip": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Contracts\\Repositories\\ITransactionRepository.cs",
+              "RelativeToolTip": "HW15\\Contracts\\Repositories\\ITransactionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T12:52:36.46Z",
+              "WhenOpened": "2024-12-01T07:47:42.069Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "ITransactionService.cs",
-              "DocumentMoniker": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Contracts\\Services\\ITransactionService.cs",
-              "RelativeDocumentMoniker": "HW15\\Contracts\\Services\\ITransactionService.cs",
-              "ToolTip": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Contracts\\Services\\ITransactionService.cs",
-              "RelativeToolTip": "HW15\\Contracts\\Services\\ITransactionService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "HW15\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Services\\UserService.cs",
+              "RelativeToolTip": "HW15\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T07:51:04.41Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T04:52:18.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20241202053544_fee nullAble.cs",
+              "DocumentMoniker": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Migrations\\20241202053544_fee nullAble.cs",
+              "RelativeDocumentMoniker": "HW15\\Migrations\\20241202053544_fee nullAble.cs",
+              "ToolTip": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Migrations\\20241202053544_fee nullAble.cs",
+              "RelativeToolTip": "HW15\\Migrations\\20241202053544_fee nullAble.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T05:35:44.919Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "HW15\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "HW15\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwBIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T14:26:22.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20241202050027_cahnge.cs",
+              "DocumentMoniker": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Migrations\\20241202050027_cahnge.cs",
+              "RelativeDocumentMoniker": "HW15\\Migrations\\20241202050027_cahnge.cs",
+              "ToolTip": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Migrations\\20241202050027_cahnge.cs",
+              "RelativeToolTip": "HW15\\Migrations\\20241202050027_cahnge.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T05:00:27.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "IUserService.cs",
               "DocumentMoniker": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Contracts\\Services\\IUserService.cs",
               "RelativeDocumentMoniker": "HW15\\Contracts\\Services\\IUserService.cs",
@@ -320,21 +379,55 @@
               "RelativeToolTip": "HW15\\Contracts\\Services\\IUserService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T07:49:49.123Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T07:49:49.123Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Contracts\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "HW15\\Contracts\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Contracts\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "HW15\\Contracts\\Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T07:47:10.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "Result.cs",
               "DocumentMoniker": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Result\\Result.cs",
               "RelativeDocumentMoniker": "HW15\\Result\\Result.cs",
               "ToolTip": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Result\\Result.cs",
               "RelativeToolTip": "HW15\\Result\\Result.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T07:49:07.789Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T07:49:07.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "HW15\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "HW15\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T07:25:58.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20241201125235_init.cs",
+              "DocumentMoniker": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Migrations\\20241201125235_init.cs",
+              "RelativeDocumentMoniker": "HW15\\Migrations\\20241201125235_init.cs",
+              "ToolTip": "C:\\Users\\Lion\\source\\repos\\HW15\\HW15\\Migrations\\20241201125235_init.cs",
+              "RelativeToolTip": "HW15\\Migrations\\20241201125235_init.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T12:52:36.46Z"
             }
           ]
         }

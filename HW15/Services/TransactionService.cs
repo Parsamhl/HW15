@@ -21,7 +21,11 @@ namespace HW15.Services
             _cardRepository = new CardRepository();
         }
 
-       
+        public List<Transaction> GetTransactionLIst(string cardNumber)
+        {
+            return _transactionRepository.GetAll(cardNumber);
+
+        }
 
         public Result TransferMoney(string sCardNumber, string DCardNumber, float amount)
         {
@@ -52,32 +56,52 @@ namespace HW15.Services
                 {
                     return new Result() { IsSuccess = false, Erorr = "Daily transfer limit reached !" };
                 }
-                if(amount > 1000)
+                if (amount > 1000)
                 {
-                    
+                    float temp = 0;
+                    temp = (amount * 0.5F) / 100F;
+                    sCard.Balance -= temp;
                 }
-                if( amount < 1000)
+                if (amount < 1000)
                 {
+                    float temp = 0;
+                    temp = (amount * 1.5F) / 100f;
+                    sCard.Balance -= temp;
 
                 }
 
                 _cardRepository.Whitdraw(sCardNumber, amount);
 
-                var transaction = new Transaction()
+                try
                 {
-                    SourceCard = sCard,
-                    DestinationCard = dCard,
-                    Amount = amount,
-                    TransactionDate = DateTime.Now,
-                    IsSuccessful = true
+                    _cardRepository.Deposite(sCardNumber, amount);
+                    return new Result() { IsSuccess = false, Erorr = "true" };
 
-                };
+                }
+                catch (Exception e)
+                {
+                    _cardRepository.Deposite(sCardNumber, amount);
+                    return new Result() { IsSuccess = false, Erorr = ".." };
+                }
+                finally
+                {
+                    var transaction = new Transaction()
+                    {
+                        SourceCard = sCard,
+                        DestinationCard = dCard,
+                        Amount = amount,
+                        TransactionDate = DateTime.Now,
+                        IsSuccessful = true
+                        
 
-                
-                _transactionRepository.Add(transaction);
+                    };
 
-                _cardRepository.Deposite(DCardNumber, amount);
-                return new Result() { IsSuccess = true };
+                    _transactionRepository.Add(transaction);
+
+
+
+
+                }
 
             }
         }

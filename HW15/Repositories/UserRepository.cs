@@ -21,29 +21,29 @@ namespace HW15.Repositories
 
         public User GetUser(string cardNumber)
         {
-           var user = _context.Users.FirstOrDefault(u=> u.CardNumber == cardNumber);
-            if (user is null)
-            {
-                throw new Exception("card Number is invalid");
+            //var user = _context.Users.FirstOrDefault(u=> u.CardNumber == cardNumber);
+            // if (user is null)
+            // {
+            //     throw new Exception("card Number is invalid");
 
-            }
-            else
-            {
-                return user;
-            }
+            // }
+            // else
+            // {
+            //     return user;
+            // }
 
-            //var users = _context.Users.ToList();
-            //foreach (var user in users)
-            //{
-            //    foreach (var card in user.Cards)
-            //    {
-            //        if(card.CardNumber == cardNumber)
-            //        {
-            //            return user;
-            //        }
-            //    }
-            //}
-            //return null;
+            var users = _context.Users.ToList();
+            foreach (var user in users)
+            {
+                foreach (var card in user.Cards)
+                {
+                    if (card.CardNumber == cardNumber)
+                    {
+                        return user;
+                    }
+                }
+            }
+            return null;
         }
     }
 }

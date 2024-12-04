@@ -11,5 +11,6 @@ namespace HW15.Contracts.Repositories
     {
         float DailyWithdrawal(string cardNumber);
         void Add(Transaction transaction);
+        List<Transaction> GetAll(string cardNumber );
     }
 }

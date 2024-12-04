@@ -9,7 +9,7 @@ namespace HW15.Entities
 {
     public class Transaction
     {
-     
+    
         public int TransactionsId { get; set; }
       
         public int SourceCardNumberId { get; set; }
@@ -18,7 +18,7 @@ namespace HW15.Entities
         
         public float Amount { get; set; }
         
-        public float Fee { get; set; }
+        public float? Fee { get; set; }
      
         public DateTime TransactionDate { get; set; }
        

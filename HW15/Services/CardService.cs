@@ -19,16 +19,26 @@ namespace HW15.Services
             _cardRepository = new CardRepository();
         }
 
-        public Result GetCardBalance(string cardNumber)
+        public void ChangePassword(string cardNumbert, string password, string newPassword)
+        {
+            var card = _cardRepository.GetCardBy(cardNumbert);
+            if (password == card.Password)
+            {
+                card.Password = newPassword;
+                _cardRepository.ChangePassword(cardNumbert, password, newPassword);
+            }
+        }
+
+        public string GetCardBalance(string cardNumber)
         {
             var card = _cardRepository.GetCardBy(cardNumber);
             if (card is null)
             {
-                return new Result() { IsSuccess = false, Erorr = "404" };
+                return "404";
             }
             else
             {
-                return new Result() { IsSuccess = true, Erorr = $"your card balance : {card.Balance}" };
+                return $"your card balance : {card.Balance}";
             }
         }
 

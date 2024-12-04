@@ -12,7 +12,7 @@ namespace HW15.Entities
        
         public int Id { get; set; }
         public string Name { get; set; }
-        public string CardNumber { get; set; }
+        public string? CardNumber { get; set; }
         public List<Card> Cards { get; set; }
 
 
