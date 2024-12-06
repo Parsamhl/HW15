@@ -1,4 +1,5 @@
-﻿using HW15.Entities;
+﻿using HW15.Dto;
+using HW15.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,6 +12,6 @@ namespace HW15.Contracts.Repositories
     {
         float DailyWithdrawal(string cardNumber);
         void Add(Transaction transaction);
-        List<Transaction> GetAll(string cardNumber );
+        List<TransactionDto> GetAll(string cardNumber);
     }
 }

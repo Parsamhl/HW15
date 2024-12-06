@@ -16,6 +16,9 @@ namespace HW15.Configuration
             builder.HasKey(x => x.TransactionsId);
             builder.ToTable("Transaction");
 
+            builder.Property(x => x.TransactionsId)
+                .ValueGeneratedOnAdd();
+
             builder.HasOne(a => a.SourceCard)
                 .WithMany(a => a.SentTransaction)
                 .HasForeignKey(a => a.SourceCardNumberId)

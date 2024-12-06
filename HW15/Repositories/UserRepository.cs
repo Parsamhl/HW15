@@ -19,31 +19,13 @@ namespace HW15.Repositories
             _context = new AppDbContext();
         }
 
-        public User GetUser(string cardNumber)
+        public string GetRecipientName(string destinationCardNumber)
         {
-            //var user = _context.Users.FirstOrDefault(u=> u.CardNumber == cardNumber);
-            // if (user is null)
-            // {
-            //     throw new Exception("card Number is invalid");
+            var user = _context.Users
+            .Include(u => u.Cards)
+            .FirstOrDefault(u => u.Cards.Any(c => c.CardNumber == destinationCardNumber));
 
-            // }
-            // else
-            // {
-            //     return user;
-            // }
-
-            var users = _context.Users.ToList();
-            foreach (var user in users)
-            {
-                foreach (var card in user.Cards)
-                {
-                    if (card.CardNumber == cardNumber)
-                    {
-                        return user;
-                    }
-                }
-            }
-            return null;
+            return user?.Name;
         }
     }
 }

@@ -1,5 +1,6 @@
 ﻿using HW15.Contracts.Repositories;
 using HW15.Data;
+using HW15.Dto;
 using HW15.Entities;
 using System;
 using System.Collections.Generic;
@@ -17,6 +18,7 @@ namespace HW15.Repositories
         public TransactionRepository()
         {
             _context = new AppDbContext();
+                
 
         }
         public void Add(Transaction transaction)
@@ -35,10 +37,21 @@ namespace HW15.Repositories
 
         }
 
-        public List<Transaction> GetAll(string cardNumber)
+        public List<TransactionDto> GetAll(string cardNumber)
         {
-            var list = _context.Transactions.Where(c => c.SourceCard.CardNumber == cardNumber || c.DestinationCard.CardNumber == cardNumber).ToList();    
-                return list;
+            return _context.Transactions
+              .Where(x => x.SourceCard.CardNumber == cardNumber || x.DestinationCard.CardNumber == cardNumber)
+              .Select(x => new TransactionDto
+              {
+                  SourceCardNumber = x.SourceCard.CardNumber,
+                  DestinationsCardNumber = x.DestinationCard.CardNumber,
+                  TransavtionDate = x.TransactionDate,
+                  Amount = x.Amount,
+                  IsSuccess = x.IsSuccessful,
+
+              }).ToList();
+
+
         }
     }
 }

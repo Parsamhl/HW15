@@ -9,10 +9,8 @@ namespace HW15.Contracts.Repositories
 {
     public interface IUserRepository
     {
-       
-        User GetUser(string cardNumber);
-       
 
+        string GetRecipientName(string destinationCardNumber);
 
     }
 }

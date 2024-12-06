@@ -1,4 +1,5 @@
-﻿using HW15.Entities;
+﻿using HW15.Dto;
+using HW15.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,6 +11,6 @@ namespace HW15.Contracts.Services
     public interface ITransactionService
     {
         Result TransferMoney(string sCardNumber, string DCardNumber, float amount);
-        List<Transaction> GetTransactionLIst(string cardNumber);
+        List<TransactionDto> GetTransactionLIst(string cardNumber);
     }
 }

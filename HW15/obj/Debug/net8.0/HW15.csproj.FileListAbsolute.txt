@@ -151,3 +151,5 @@ C:\Users\Lion\source\repos\HW15\HW15\obj\Debug\net8.0\HW15.pdb
 C:\Users\Lion\source\repos\HW15\HW15\obj\Debug\net8.0\HW15.genruntimeconfig.cache
 C:\Users\Lion\source\repos\HW15\HW15\obj\Debug\net8.0\ref\HW15.dll
 C:\Users\Lion\source\repos\HW15\HW15\obj\Debug\net8.0\HW15.sourcelink.json
+C:\Users\Lion\source\repos\HW15\HW15\bin\Debug\net8.0\ConsoleTables.dll
+C:\Users\Lion\source\repos\HW15\HW15\bin\Debug\net8.0\Wcwidth.dll

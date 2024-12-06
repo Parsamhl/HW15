@@ -8,5 +8,7 @@ namespace HW15.Contracts.Services
 {
     public interface IUserService
     {
+        string UserDetails(string cardNumber);
+
     }
 }

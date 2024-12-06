@@ -50,6 +50,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "ConsoleTables": {
+              "target": "Package",
+              "version": "[2.6.2, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[9.0.0, )"
@@ -63,6 +67,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[9.0.0, )"
+            },
+            "System.Console": {
+              "target": "Package",
+              "version": "[4.3.1, )"
             }
           },
           "imports": [
